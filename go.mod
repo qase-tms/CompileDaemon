@@ -1,4 +1,4 @@
-module github.com/githubnemo/CompileDaemon
+module github.com/qase-tms/CompileDaemon
 
 go 1.16
 
